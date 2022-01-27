@@ -25,3 +25,6 @@ hs_err_pid*
 # stuff that will get ignored by git
 .idea/
 *.properties
+*.iml
+.target/
+.git/
